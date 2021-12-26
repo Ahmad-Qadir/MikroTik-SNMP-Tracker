@@ -1,0 +1,19 @@
+{
+  "name": "project-mac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Start Node": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mikronode-ng": "^1.0.11",
+    "net-snmp": "^3.5.2",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2"
+  }
+}
